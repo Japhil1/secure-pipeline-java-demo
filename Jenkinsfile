@@ -16,7 +16,6 @@ pipeline {
             }
           }
         }
-        }
       }
     }
     stage('Build') {
@@ -147,3 +146,4 @@ pipeline {
     }
   }
 }
+
